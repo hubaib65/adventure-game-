@@ -1,0 +1,21 @@
+{
+  "name": "h2_adventure-game",
+  "version": "1.0.1",
+  "description": "simple adventure game cli based",
+  "main": "index.js",
+  "type": "module",
+  "bin": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "HUBAIB",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.3.1"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7",
+    "@types/jquery": "^3.5.30",
+    "@types/node": "^20.14.9"
+  }
+}
